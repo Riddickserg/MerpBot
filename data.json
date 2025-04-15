@@ -1,0 +1,33 @@
+{
+    "streamers": [
+        {
+            "name": "Riddicksergal",
+            "link": "https://www.twitch.tv/riddicksergal",
+            "message": "Riddick is merpin LIVE! right now!",
+            "is_live": false,
+            "last_message_id": null
+        },
+        {
+            "name": "Foxivael",
+            "link": "https://www.twitch.tv/foxivael",
+            "message": "Foxivael is LIVE! go say hi!",
+            "is_live": false,
+            "last_message_id": null
+        },
+        {
+            "name": "BirdCageSystem",
+            "link": "https://www.twitch.tv/birdcagesystem",
+            "message": "BirdCageSystem is LIVE! go say hi!",
+            "is_live": false,
+            "last_message_id": null
+        },
+        {
+            "name": "VulpesParadox",
+            "link": "https://www.twitch.tv/vulpesparadox",
+            "message": "I've gone live! OwO",
+            "is_live": true,
+            "last_message_id": 1361823121690198068
+        }
+    ],
+    "channel_id": 1213208761909641359
+}
